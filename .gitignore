@@ -1,0 +1,98 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter and notebook checkpoints
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Ignore virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# Ignore VS Code and Streamlit config
+.vscode/
+.streamlit/
+
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore build and dist folders
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Ignore logs and user data
+logs/
+*.log
+*.sqlite3
+
+# Ignore test and coverage
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.hypothesis/
+.pytest_cache/
+
+# Ignore installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore pyenv and mypy
+.python-version
+.mypy_cache/
+.dmypy.json
+
+# Ignore C extensions
+*.so
+
+# Ignore packaging
+.Python
+MANIFEST
+
+# Ignore user folders (Windows)
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Jedi/
+Links/
+Music/
+OneDrive/
+Pictures/
+Python-files/
+Saved Games/
+Searches/
+UNITYFILES/
+Videos/
+
+# Ignore other common folders
+results/
+runs/
+source/
+app/
+cache_dir/
+filesPython/
+go/
+logs/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
