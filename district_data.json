@@ -1,0 +1,2166 @@
+{
+  "district": {
+    "code": "19_1",
+    "name": "ADILABAD"
+  },
+  "mandals": [
+    {
+      "code": "01",
+      "name": "ADILABAD (RURAL)",
+      "villages": [
+        {
+          "code": "1903030",
+          "name": "ANKAPOOR"
+        },
+        {
+          "code": "1903026",
+          "name": "ANKOLI"
+        },
+        {
+          "code": "1903018",
+          "name": "ANUKUNTA"
+        },
+        {
+          "code": "1903008",
+          "name": "ARLI (BUZURG)"
+        },
+        {
+          "code": "1903031",
+          "name": "ASODA BHURKI"
+        },
+        {
+          "code": "1903037",
+          "name": "BELLURI"
+        },
+        {
+          "code": "1903011",
+          "name": "BHEEMSERI"
+        },
+        {
+          "code": "1903034",
+          "name": "BORENUR"
+        },
+        {
+          "code": "1903005",
+          "name": "CHANDA"
+        },
+        {
+          "code": "1903045",
+          "name": "CHICHADHARI"
+        },
+        {
+          "code": "1903029",
+          "name": "CHINCHUGHAT"
+        },
+        {
+          "code": "1903001",
+          "name": "DIMMA"
+        },
+        {
+          "code": "1903042",
+          "name": "HATHIGUTTA"
+        },
+        {
+          "code": "1903004",
+          "name": "JAMDAPUR"
+        },
+        {
+          "code": "1903023",
+          "name": "KACHKANTI"
+        },
+        {
+          "code": "1903044",
+          "name": "KHANAPOOR"
+        },
+        {
+          "code": "1903039",
+          "name": "KHANDALA (U)"
+        },
+        {
+          "code": "1903033",
+          "name": "KOTTUR (NEVEGAON)"
+        },
+        {
+          "code": "1903020",
+          "name": "KUMBHAJHERI"
+        },
+        {
+          "code": "1903007",
+          "name": "LANDASANGVI"
+        },
+        {
+          "code": "1903040",
+          "name": "LOHARA"
+        },
+        {
+          "code": "1903032",
+          "name": "LOKARI"
+        },
+        {
+          "code": "1903027",
+          "name": "MALEBORGAON"
+        },
+        {
+          "code": "1903003",
+          "name": "MALLAPUR (D)"
+        },
+        {
+          "code": "1903043",
+          "name": "MAREGAON"
+        },
+        {
+          "code": "1903009",
+          "name": "NISHANGHAT"
+        },
+        {
+          "code": "1903038",
+          "name": "PIPPALDHARI"
+        },
+        {
+          "code": "1903002",
+          "name": "POCHARA"
+        },
+        {
+          "code": "1903012",
+          "name": "RAMPOOR (ROYATI)"
+        },
+        {
+          "code": "1903019",
+          "name": "TAKLI"
+        },
+        {
+          "code": "1903013",
+          "name": "TARADA (SRIMATH)"
+        },
+        {
+          "code": "1903041",
+          "name": "TIPPA"
+        },
+        {
+          "code": "1903024",
+          "name": "TONTOTOI"
+        },
+        {
+          "code": "1903035",
+          "name": "WANWAT"
+        },
+        {
+          "code": "1903022",
+          "name": "YAPALGUDA"
+        }
+      ]
+    },
+    {
+      "code": "02",
+      "name": "ADILABAD (URBAN)",
+      "villages": [
+        {
+          "code": "1903010",
+          "name": "ADILABAD (U)"
+        },
+        {
+          "code": "1903014",
+          "name": "BHUKTAPUR"
+        },
+        {
+          "code": "1903017",
+          "name": "KHANAPUR"
+        }
+      ]
+    },
+    {
+      "code": "03",
+      "name": "BAZARHATHNOOR",
+      "villages": [
+        {
+          "code": "1910006",
+          "name": "ANANTHAPUR"
+        },
+        {
+          "code": "1910023",
+          "name": "BALANPUR"
+        },
+        {
+          "code": "1910026",
+          "name": "BANDREW"
+        },
+        {
+          "code": "1910024",
+          "name": "BAZARHATHNUR"
+        },
+        {
+          "code": "1910017",
+          "name": "BHOSRA"
+        },
+        {
+          "code": "1910014",
+          "name": "BHUTAI BUZURG"
+        },
+        {
+          "code": "1910011",
+          "name": "BHUTAI KHURD"
+        },
+        {
+          "code": "1910015",
+          "name": "CHINTAL SANGVI"
+        },
+        {
+          "code": "1910016",
+          "name": "DEHGAON"
+        },
+        {
+          "code": "1910010",
+          "name": "DHABADI"
+        },
+        {
+          "code": "1910018",
+          "name": "DHARAMPURI\r\n"
+        },
+        {
+          "code": "1910021",
+          "name": "DIGNOOR"
+        },
+        {
+          "code": "1910020",
+          "name": "GANGAPUR"
+        },
+        {
+          "code": "1910002",
+          "name": "GIRJAI"
+        },
+        {
+          "code": "1910022",
+          "name": "GIRNUR"
+        },
+        {
+          "code": "1910009",
+          "name": "GOKONDA"
+        },
+        {
+          "code": "1910004",
+          "name": "HARKAI"
+        },
+        {
+          "code": "1910013",
+          "name": "JATARLA"
+        },
+        {
+          "code": "1910029",
+          "name": "KANDLI"
+        },
+        {
+          "code": "1910028",
+          "name": "KANKADURGA"
+        },
+        {
+          "code": "1910005",
+          "name": "KINNERPALLE"
+        },
+        {
+          "code": "1910025",
+          "name": "KOLHARI"
+        },
+        {
+          "code": "1910012",
+          "name": "MANKAPUR (P)"
+        },
+        {
+          "code": "1910027",
+          "name": "MOHADA"
+        },
+        {
+          "code": "1910003",
+          "name": "MORKHANDI"
+        },
+        {
+          "code": "1910030",
+          "name": "PIPRI"
+        },
+        {
+          "code": "1910019",
+          "name": "RAMPUR"
+        },
+        {
+          "code": "1910007",
+          "name": "TEMBI"
+        },
+        {
+          "code": "1910001",
+          "name": "UMERDA BUZURG"
+        },
+        {
+          "code": "1910031",
+          "name": "WARTHAMANOOR"
+        },
+        {
+          "code": "1910008",
+          "name": "YESAPUR"
+        }
+      ]
+    },
+    {
+      "code": "04",
+      "name": "BELA",
+      "villages": [
+        {
+          "code": "1905001",
+          "name": "AWALPUR"
+        },
+        {
+          "code": "1905017",
+          "name": "BELA"
+        },
+        {
+          "code": "1905021",
+          "name": "BHADI"
+        },
+        {
+          "code": "1905004",
+          "name": "BHEDODA"
+        },
+        {
+          "code": "1905014",
+          "name": "BHODOD (KOPSI)"
+        },
+        {
+          "code": "1905041",
+          "name": "BOREGAON"
+        },
+        {
+          "code": "1905025",
+          "name": "BURHANPUR"
+        },
+        {
+          "code": "1905031",
+          "name": "CHANDPALLE"
+        },
+        {
+          "code": "1905033",
+          "name": "CHAPRALA"
+        },
+        {
+          "code": "1905011",
+          "name": "DATALPUR"
+        },
+        {
+          "code": "1905012",
+          "name": "DEHEGAON"
+        },
+        {
+          "code": "1905018",
+          "name": "DHOPTALA"
+        },
+        {
+          "code": "1905024",
+          "name": "EKORI"
+        },
+        {
+          "code": "1905013",
+          "name": "GUDA"
+        },
+        {
+          "code": "1905026",
+          "name": "JUNONI"
+        },
+        {
+          "code": "1905005",
+          "name": "KAMGARPUR"
+        },
+        {
+          "code": "1905038",
+          "name": "KARONI (B)"
+        },
+        {
+          "code": "1905039",
+          "name": "KARONI (K)"
+        },
+        {
+          "code": "1905036",
+          "name": "KHADKI"
+        },
+        {
+          "code": "1905007",
+          "name": "KHAGDUR"
+        },
+        {
+          "code": "1905010",
+          "name": "KOBHAI"
+        },
+        {
+          "code": "1905009",
+          "name": "KOPARUZANA"
+        },
+        {
+          "code": "1905008",
+          "name": "MANGROOL"
+        },
+        {
+          "code": "1905006",
+          "name": "MANYARPUR"
+        },
+        {
+          "code": "1905023",
+          "name": "MASALA (BUZURG)"
+        },
+        {
+          "code": "1905042",
+          "name": "MASALA (KHURD)"
+        },
+        {
+          "code": "1905016",
+          "name": "MOHABATPUR"
+        },
+        {
+          "code": "1905027",
+          "name": "NAGRALA"
+        },
+        {
+          "code": "1905002",
+          "name": "NARAYANPUR"
+        },
+        {
+          "code": "1905028",
+          "name": "PATAN"
+        },
+        {
+          "code": "1905032",
+          "name": "PITGAON"
+        },
+        {
+          "code": "1905040",
+          "name": "POHAR"
+        },
+        {
+          "code": "1905030",
+          "name": "PONNALA"
+        },
+        {
+          "code": "1905029",
+          "name": "RAMKAM"
+        },
+        {
+          "code": "1905037",
+          "name": "SADARPUR"
+        },
+        {
+          "code": "1905003",
+          "name": "SANGDI"
+        },
+        {
+          "code": "1905015",
+          "name": "SHAMSHABAD"
+        },
+        {
+          "code": "1905020",
+          "name": "SINGAPUR"
+        },
+        {
+          "code": "1905019",
+          "name": "SIRSANNA"
+        },
+        {
+          "code": "1905035",
+          "name": "SONKHOS"
+        },
+        {
+          "code": "1905022",
+          "name": "TAKLI"
+        },
+        {
+          "code": "1905034",
+          "name": "WARUR"
+        }
+      ]
+    },
+    {
+      "code": "05",
+      "name": "BHEEMPUR",
+      "villages": [
+        {
+          "code": "1902017",
+          "name": "ANDARBANDH"
+        },
+        {
+          "code": "1902004",
+          "name": "ANTARGAON"
+        },
+        {
+          "code": "1902005",
+          "name": "ARLI (T)"
+        },
+        {
+          "code": "1902011",
+          "name": "BABBAKNCHI"
+        },
+        {
+          "code": "1902016",
+          "name": "BELSARI RAMPUR"
+        },
+        {
+          "code": "1902012",
+          "name": "BHEEMPOOR"
+        },
+        {
+          "code": "1902014",
+          "name": "DHANORA"
+        },
+        {
+          "code": "1902008",
+          "name": "GOLLAGHAT"
+        },
+        {
+          "code": "1902003",
+          "name": "GOMUTRI"
+        },
+        {
+          "code": "1902013",
+          "name": "GONA"
+        },
+        {
+          "code": "1902002",
+          "name": "GULEDI"
+        },
+        {
+          "code": "1902007",
+          "name": "GUNJALA"
+        },
+        {
+          "code": "1902015",
+          "name": "KAMATHWADA"
+        },
+        {
+          "code": "1902001",
+          "name": "KARANJI (T)"
+        },
+        {
+          "code": "1902010",
+          "name": "NIPANI"
+        },
+        {
+          "code": "1902020",
+          "name": "PIPPALKHOTI"
+        },
+        {
+          "code": "1902009",
+          "name": "TAMSI (K)"
+        },
+        {
+          "code": "1902018",
+          "name": "WADGAON"
+        },
+        {
+          "code": "1902006",
+          "name": "WADOOR"
+        }
+      ]
+    },
+    {
+      "code": "21",
+      "name": "BHORAJ",
+      "villages": [
+        {
+          "code": "1904005",
+          "name": "AKOLI"
+        },
+        {
+          "code": "1904039",
+          "name": "AWALPUR"
+        },
+        {
+          "code": "1904033",
+          "name": "BALAPUR"
+        },
+        {
+          "code": "1904036",
+          "name": "BHORAJ"
+        },
+        {
+          "code": "1904022",
+          "name": "DADAPOOR"
+        },
+        {
+          "code": "1904007",
+          "name": "DOLLARA"
+        },
+        {
+          "code": "1904035",
+          "name": "FOUZPUR"
+        },
+        {
+          "code": "1903006",
+          "name": "GANESHPUR (D)"
+        },
+        {
+          "code": "1904003",
+          "name": "GIMMA BUZURG"
+        },
+        {
+          "code": "1904025",
+          "name": "GIMMA KHURD"
+        },
+        {
+          "code": "1904027",
+          "name": "GUDA"
+        },
+        {
+          "code": "1904031",
+          "name": "HASHAMPUR"
+        },
+        {
+          "code": "1904001",
+          "name": "HATHIGHAT"
+        },
+        {
+          "code": "1904006",
+          "name": "KAMAI"
+        },
+        {
+          "code": "1904010",
+          "name": "KARANWADI"
+        },
+        {
+          "code": "1904004",
+          "name": "KEDARPUR"
+        },
+        {
+          "code": "1904002",
+          "name": "KORTA"
+        },
+        {
+          "code": "1904021",
+          "name": "LEKARWADI"
+        },
+        {
+          "code": "1904008",
+          "name": "MANDAGADA"
+        },
+        {
+          "code": "1904029",
+          "name": "MIRZAPUR"
+        },
+        {
+          "code": "1904009",
+          "name": "PENDALWADA"
+        },
+        {
+          "code": "1904024",
+          "name": "PIPPARWADA"
+        },
+        {
+          "code": "1904030",
+          "name": "POOSAI"
+        },
+        {
+          "code": "1904026",
+          "name": "RAMPUR TARAF"
+        },
+        {
+          "code": "1904032",
+          "name": "SAVAPUR"
+        },
+        {
+          "code": "1904023",
+          "name": "SEKAPOOR"
+        },
+        {
+          "code": "1904028",
+          "name": "SIRSONNA"
+        },
+        {
+          "code": "1904034",
+          "name": "TARADA BUZURG"
+        }
+      ]
+    },
+    {
+      "code": "06",
+      "name": "BOATH",
+      "villages": [
+        {
+          "code": "1911034",
+          "name": "ANDURU"
+        },
+        {
+          "code": "1911019",
+          "name": "BABERA"
+        },
+        {
+          "code": "1911038",
+          "name": "BAHRAPUR"
+        },
+        {
+          "code": "1911033",
+          "name": "BIRLAGONDI"
+        },
+        {
+          "code": "1911026",
+          "name": "BOATH (K)"
+        },
+        {
+          "code": "1911027",
+          "name": "BOATH BUZURG"
+        },
+        {
+          "code": "1911011",
+          "name": "DEMMI"
+        },
+        {
+          "code": "1911008",
+          "name": "DERA (D)"
+        },
+        {
+          "code": "1911037",
+          "name": "DHANNUR BUZURG"
+        },
+        {
+          "code": "1911036",
+          "name": "DHANNUR KHURD"
+        },
+        {
+          "code": "1911012",
+          "name": "KANGUTTA"
+        },
+        {
+          "code": "1911020",
+          "name": "KANTEGAON"
+        },
+        {
+          "code": "1911016",
+          "name": "KARATHWADA"
+        },
+        {
+          "code": "1911025",
+          "name": "KESLAPUR"
+        },
+        {
+          "code": "1911028",
+          "name": "KISTAPUR"
+        },
+        {
+          "code": "1911010",
+          "name": "KOWTHA BUZURG"
+        },
+        {
+          "code": "1911031",
+          "name": "KUCHALAPUR"
+        },
+        {
+          "code": "1911022",
+          "name": "MARLAPALLE"
+        },
+        {
+          "code": "1911015",
+          "name": "MEDI"
+        },
+        {
+          "code": "1911039",
+          "name": "NAGAPUR"
+        },
+        {
+          "code": "1911018",
+          "name": "NAKKALAWADA"
+        },
+        {
+          "code": "1911035",
+          "name": "NARAYANPUR"
+        },
+        {
+          "code": "1911021",
+          "name": "NIGINI"
+        },
+        {
+          "code": "1911024",
+          "name": "PATNAPUR"
+        },
+        {
+          "code": "1911032",
+          "name": "PIPPALADHARI"
+        },
+        {
+          "code": "1911030",
+          "name": "POCHERA"
+        },
+        {
+          "code": "1911009",
+          "name": "SANGVI"
+        },
+        {
+          "code": "1911023",
+          "name": "SURADAPUR"
+        },
+        {
+          "code": "1911029",
+          "name": "VENKATAPUR"
+        }
+      ]
+    },
+    {
+      "code": "07",
+      "name": "GADIGUDA",
+      "villages": [
+        {
+          "code": "1906011",
+          "name": "ADEMEYON"
+        },
+        {
+          "code": "1906014",
+          "name": "ARJUNI"
+        },
+        {
+          "code": "1906025",
+          "name": "DHABA (BUZURG)"
+        },
+        {
+          "code": "1906018",
+          "name": "DHABA (K)"
+        },
+        {
+          "code": "1906004",
+          "name": "DONGARGAON"
+        },
+        {
+          "code": "1906020",
+          "name": "GADIGUDA"
+        },
+        {
+          "code": "1906036",
+          "name": "GOURI"
+        },
+        {
+          "code": "1906017",
+          "name": "JHARI"
+        },
+        {
+          "code": "1906006",
+          "name": "KADODI"
+        },
+        {
+          "code": "1906027",
+          "name": "KHADKI"
+        },
+        {
+          "code": "1906003",
+          "name": "KHANDOW"
+        },
+        {
+          "code": "1906022",
+          "name": "KOLAMA"
+        },
+        {
+          "code": "1906001",
+          "name": "KONDI"
+        },
+        {
+          "code": "1906008",
+          "name": "KOTHAPALLE (G)"
+        },
+        {
+          "code": "1906007",
+          "name": "KOUTHALA"
+        },
+        {
+          "code": "1906009",
+          "name": "KUNIKASA"
+        },
+        {
+          "code": "1906026",
+          "name": "LOKARI (B)"
+        },
+        {
+          "code": "1906016",
+          "name": "LOKARI (K)"
+        },
+        {
+          "code": "1906024",
+          "name": "MAREGAON"
+        },
+        {
+          "code": "1906023",
+          "name": "PARASWADA (B)"
+        },
+        {
+          "code": "1906015",
+          "name": "PARASWADA (K)"
+        },
+        {
+          "code": "1906013",
+          "name": "PIPRI"
+        },
+        {
+          "code": "1906035",
+          "name": "POWNUR"
+        },
+        {
+          "code": "1906019",
+          "name": "PUNAGUDA"
+        },
+        {
+          "code": "1906002",
+          "name": "RAMPUR"
+        },
+        {
+          "code": "1906021",
+          "name": "RUPAPUR"
+        },
+        {
+          "code": "1906034",
+          "name": "SANGVI"
+        },
+        {
+          "code": "1906012",
+          "name": "SAWARI"
+        },
+        {
+          "code": "1906005",
+          "name": "SEDWAI"
+        },
+        {
+          "code": "1906010",
+          "name": "WARKWAI"
+        }
+      ]
+    },
+    {
+      "code": "08",
+      "name": "GUDIHATNOOR",
+      "villages": [
+        {
+          "code": "1908020",
+          "name": "BELLURI"
+        },
+        {
+          "code": "1908009",
+          "name": "DHAMPUR"
+        },
+        {
+          "code": "1908013",
+          "name": "DONGARGAON"
+        },
+        {
+          "code": "1908017",
+          "name": "GONDHARKAPUR"
+        },
+        {
+          "code": "1908007",
+          "name": "GUDIHATHINUR"
+        },
+        {
+          "code": "1908016",
+          "name": "GURUJ"
+        },
+        {
+          "code": "1908002",
+          "name": "KAMALAPUR"
+        },
+        {
+          "code": "1908014",
+          "name": "KOLHARI"
+        },
+        {
+          "code": "1908006",
+          "name": "LINGAPUR"
+        },
+        {
+          "code": "1908008",
+          "name": "MACHAPUR"
+        },
+        {
+          "code": "1908004",
+          "name": "MALKAPUR"
+        },
+        {
+          "code": "1908012",
+          "name": "MANNUR"
+        },
+        {
+          "code": "1908010",
+          "name": "MUTHNUR"
+        },
+        {
+          "code": "1908011",
+          "name": "NERADIGONDA"
+        },
+        {
+          "code": "1908018",
+          "name": "RENDLS BORI"
+        },
+        {
+          "code": "1908003",
+          "name": "SEETAGONDI"
+        },
+        {
+          "code": "1908019",
+          "name": "SHANTAPUR"
+        },
+        {
+          "code": "1908021",
+          "name": "TEJAPUR"
+        },
+        {
+          "code": "1908005",
+          "name": "TOSHAM"
+        },
+        {
+          "code": "1908015",
+          "name": "UMRI(B)"
+        },
+        {
+          "code": "1908001",
+          "name": "VAIJAPUR"
+        }
+      ]
+    },
+    {
+      "code": "09",
+      "name": "ICHODA",
+      "villages": [
+        {
+          "code": "1909017",
+          "name": "ADEGAON BUZURG"
+        },
+        {
+          "code": "1909001",
+          "name": "ADEGAON KHURD"
+        },
+        {
+          "code": "1909038",
+          "name": "BABJEPET"
+        },
+        {
+          "code": "1909004",
+          "name": "BABULDHOLE"
+        },
+        {
+          "code": "1909005",
+          "name": "BOREGAON"
+        },
+        {
+          "code": "1909019",
+          "name": "CHINCHOLI"
+        },
+        {
+          "code": "1909021",
+          "name": "DHABA KHURD"
+        },
+        {
+          "code": "1909025",
+          "name": "DHARMAPURI"
+        },
+        {
+          "code": "1909012",
+          "name": "DHOBA BUZURG"
+        },
+        {
+          "code": "1909036",
+          "name": "GAIDPALLE"
+        },
+        {
+          "code": "1909037",
+          "name": "GANDIWAGU"
+        },
+        {
+          "code": "1909018",
+          "name": "GIRJAM"
+        },
+        {
+          "code": "1909002",
+          "name": "GUBBA"
+        },
+        {
+          "code": "1909033",
+          "name": "GUNDALA"
+        },
+        {
+          "code": "1909030",
+          "name": "GUNDI"
+        },
+        {
+          "code": "1909010",
+          "name": "HEERAPUR"
+        },
+        {
+          "code": "1909016",
+          "name": "ICHODA"
+        },
+        {
+          "code": "1909026",
+          "name": "JALDA"
+        },
+        {
+          "code": "1909015",
+          "name": "JAMIDI"
+        },
+        {
+          "code": "1909039",
+          "name": "JOGIPET"
+        },
+        {
+          "code": "1909003",
+          "name": "JUNNI"
+        },
+        {
+          "code": "1909006",
+          "name": "KAMGIR"
+        },
+        {
+          "code": "1909031",
+          "name": "KESHA PATNAM"
+        },
+        {
+          "code": "1909027",
+          "name": "KOKASMANNAR"
+        },
+        {
+          "code": "1909035",
+          "name": "LINGAPUR"
+        },
+        {
+          "code": "1909014",
+          "name": "MADAPUR"
+        },
+        {
+          "code": "1909023",
+          "name": "MALYAL"
+        },
+        {
+          "code": "1909024",
+          "name": "MANKAPUR"
+        },
+        {
+          "code": "1909028",
+          "name": "MOKHRA BUZURG"
+        },
+        {
+          "code": "1909029",
+          "name": "MOKHRA KHURD"
+        },
+        {
+          "code": "1909032",
+          "name": "NARSAPUR"
+        },
+        {
+          "code": "1909020",
+          "name": "NAVAGAON"
+        },
+        {
+          "code": "1909022",
+          "name": "SALYADA"
+        },
+        {
+          "code": "1909040",
+          "name": "SIRICHALMA"
+        },
+        {
+          "code": "1909013",
+          "name": "TALAMADRI"
+        }
+      ]
+    },
+    {
+      "code": "10",
+      "name": "INDERAVELLY",
+      "villages": [
+        {
+          "code": "1907033",
+          "name": "ANJI"
+        },
+        {
+          "code": "1907005",
+          "name": "BURSANPATAR"
+        },
+        {
+          "code": "1907031",
+          "name": "DASNAPUR"
+        },
+        {
+          "code": "1907002",
+          "name": "DEVAPUR"
+        },
+        {
+          "code": "1907011",
+          "name": "DHANNURA (B)"
+        },
+        {
+          "code": "1907012",
+          "name": "DHANNURA (K)"
+        },
+        {
+          "code": "1907020",
+          "name": "DHARMASAGAR"
+        },
+        {
+          "code": "1907007",
+          "name": "DODANA"
+        },
+        {
+          "code": "1907029",
+          "name": "DONGARGAON"
+        },
+        {
+          "code": "1907006",
+          "name": "GATTEPALLE"
+        },
+        {
+          "code": "1907003",
+          "name": "GINNERA"
+        },
+        {
+          "code": "1907013",
+          "name": "GOUREEPUR"
+        },
+        {
+          "code": "1907017",
+          "name": "HARKAPUR"
+        },
+        {
+          "code": "1907016",
+          "name": "HEERAPUR"
+        },
+        {
+          "code": "1907008",
+          "name": "INDERVELLY"
+        },
+        {
+          "code": "1907004",
+          "name": "INDERVELLY (K)"
+        },
+        {
+          "code": "1907018",
+          "name": "KESLAGUDA"
+        },
+        {
+          "code": "1907015",
+          "name": "KESLAPUR"
+        },
+        {
+          "code": "1907019",
+          "name": "MALLAPUR"
+        },
+        {
+          "code": "1907032",
+          "name": "MAMIDIGUDA"
+        },
+        {
+          "code": "1907014",
+          "name": "MENDAPALLE"
+        },
+        {
+          "code": "1907010",
+          "name": "MUTHNUR"
+        },
+        {
+          "code": "1907001",
+          "name": "PIPRI"
+        },
+        {
+          "code": "1907021",
+          "name": "TEJAPUR"
+        },
+        {
+          "code": "1907034",
+          "name": "WADAGAON"
+        },
+        {
+          "code": "1907030",
+          "name": "WALGANDA HEERAPUR"
+        },
+        {
+          "code": "1907009",
+          "name": "YAMAIKUNTA"
+        }
+      ]
+    },
+    {
+      "code": "11",
+      "name": "JAINAD",
+      "villages": [
+        {
+          "code": "1904042",
+          "name": "ADA"
+        },
+        {
+          "code": "1904020",
+          "name": "AKURLA"
+        },
+        {
+          "code": "1904013",
+          "name": "BAHADURPUR"
+        },
+        {
+          "code": "1904037",
+          "name": "BALLORI"
+        },
+        {
+          "code": "1904046",
+          "name": "BELGAON"
+        },
+        {
+          "code": "1904019",
+          "name": "DEEPAIGUDA"
+        },
+        {
+          "code": "1904014",
+          "name": "HARIYALI"
+        },
+        {
+          "code": "1904043",
+          "name": "JAINAD"
+        },
+        {
+          "code": "1904050",
+          "name": "KAMTHA"
+        },
+        {
+          "code": "1904016",
+          "name": "KARANJI"
+        },
+        {
+          "code": "1904044",
+          "name": "KHAPRI"
+        },
+        {
+          "code": "1904015",
+          "name": "KODEKOTHA"
+        },
+        {
+          "code": "1904012",
+          "name": "KOWTHA"
+        },
+        {
+          "code": "1904017",
+          "name": "KURA"
+        },
+        {
+          "code": "1904018",
+          "name": "KUTHOMPUR"
+        },
+        {
+          "code": "1904048",
+          "name": "LAXMIPUR (ULIGAN)"
+        },
+        {
+          "code": "1904047",
+          "name": "MAKODA"
+        },
+        {
+          "code": "1904041",
+          "name": "MUKTAPUR"
+        },
+        {
+          "code": "1904040",
+          "name": "NIRALA"
+        },
+        {
+          "code": "1904038",
+          "name": "NIZAMPUR"
+        },
+        {
+          "code": "1904049",
+          "name": "PIPPALGAON"
+        },
+        {
+          "code": "1904011",
+          "name": "SANGVI (K)"
+        },
+        {
+          "code": "1904045",
+          "name": "UMRI"
+        }
+      ]
+    },
+    {
+      "code": "12",
+      "name": "MAVALA",
+      "villages": [
+        {
+          "code": "1903015",
+          "name": "BATTISAWARGAON"
+        },
+        {
+          "code": "1903016",
+          "name": "DASNAPUR"
+        },
+        {
+          "code": "1903025",
+          "name": "MAVALA"
+        },
+        {
+          "code": "1903028",
+          "name": "WAGHAPUR"
+        }
+      ]
+    },
+    {
+      "code": "13",
+      "name": "NARNOOR",
+      "villages": [
+        {
+          "code": "1906031",
+          "name": "BABJHARI"
+        },
+        {
+          "code": "1906049",
+          "name": "BALANPUR"
+        },
+        {
+          "code": "1906038",
+          "name": "BHIMPUR"
+        },
+        {
+          "code": "1906029",
+          "name": "CHORGAON"
+        },
+        {
+          "code": "1906032",
+          "name": "DHUPAPUR"
+        },
+        {
+          "code": "1906033",
+          "name": "EMPALLE"
+        },
+        {
+          "code": "1906046",
+          "name": "GANGAPUR"
+        },
+        {
+          "code": "1906041",
+          "name": "GUNDALA"
+        },
+        {
+          "code": "1906047",
+          "name": "GUNJALA"
+        },
+        {
+          "code": "1906040",
+          "name": "KHAIRDATWA"
+        },
+        {
+          "code": "1906043",
+          "name": "KHANPUR"
+        },
+        {
+          "code": "1906042",
+          "name": "MAHADAPUR"
+        },
+        {
+          "code": "1906044",
+          "name": "MAHAGAON"
+        },
+        {
+          "code": "1906052",
+          "name": "MALANGI"
+        },
+        {
+          "code": "1906053",
+          "name": "MALEPUR"
+        },
+        {
+          "code": "1906030",
+          "name": "MANJARI"
+        },
+        {
+          "code": "1906045",
+          "name": "MANKAPUR"
+        },
+        {
+          "code": "1906051",
+          "name": "NAGOLKONDA"
+        },
+        {
+          "code": "1906039",
+          "name": "NARNOOR"
+        },
+        {
+          "code": "1906050",
+          "name": "SONAPUR"
+        },
+        {
+          "code": "1906028",
+          "name": "SUNGAPUR"
+        },
+        {
+          "code": "1906048",
+          "name": "TADIHADPANUR"
+        },
+        {
+          "code": "1906037",
+          "name": "UMRI"
+        }
+      ]
+    },
+    {
+      "code": "14",
+      "name": "NERADIGONDA",
+      "villages": [
+        {
+          "code": "1912043",
+          "name": "AREPALLE"
+        },
+        {
+          "code": "1912027",
+          "name": "BONDADI"
+        },
+        {
+          "code": "1912036",
+          "name": "BONDEMREGOD"
+        },
+        {
+          "code": "1912042",
+          "name": "BORAGAON"
+        },
+        {
+          "code": "1912025",
+          "name": "BUDDIKONDA"
+        },
+        {
+          "code": "1912020",
+          "name": "BUGGARAM"
+        },
+        {
+          "code": "1912017",
+          "name": "CHINCHOLI"
+        },
+        {
+          "code": "1912026",
+          "name": "DARBA"
+        },
+        {
+          "code": "1912041",
+          "name": "DHONNORA"
+        },
+        {
+          "code": "1912001",
+          "name": "GAJLI"
+        },
+        {
+          "code": "1912002",
+          "name": "GANDHARI"
+        },
+        {
+          "code": "1912033",
+          "name": "ISPUR"
+        },
+        {
+          "code": "1912010",
+          "name": "JASNAPUR"
+        },
+        {
+          "code": "1912031",
+          "name": "KISHTAPUR"
+        },
+        {
+          "code": "1912037",
+          "name": "KORATKAL BUZURG"
+        },
+        {
+          "code": "1912039",
+          "name": "KORATKAL KHURD"
+        },
+        {
+          "code": "1912013",
+          "name": "KUMARI"
+        },
+        {
+          "code": "1912007",
+          "name": "KUNTALA (BUZURG)"
+        },
+        {
+          "code": "1912008",
+          "name": "KUNTALA (KHURD)"
+        },
+        {
+          "code": "1912003",
+          "name": "KUPTI (BUZURG)"
+        },
+        {
+          "code": "1912012",
+          "name": "KUPTI (KHURD)"
+        },
+        {
+          "code": "1912040",
+          "name": "LINGATLA"
+        },
+        {
+          "code": "1912018",
+          "name": "LOKHAMPUR"
+        },
+        {
+          "code": "1912005",
+          "name": "MADHAPUR"
+        },
+        {
+          "code": "1912014",
+          "name": "MALKALPAHAD"
+        },
+        {
+          "code": "1912021",
+          "name": "NAGAMALYAL"
+        },
+        {
+          "code": "1912038",
+          "name": "NARAYANAPUR"
+        },
+        {
+          "code": "1912024",
+          "name": "NERADIGONDA"
+        },
+        {
+          "code": "1912022",
+          "name": "PEECHRA"
+        },
+        {
+          "code": "1912035",
+          "name": "PURUSHOTHAMPUR"
+        },
+        {
+          "code": "1912015",
+          "name": "RAIPUR"
+        },
+        {
+          "code": "1912032",
+          "name": "RAJURA"
+        },
+        {
+          "code": "1912023",
+          "name": "ROLMANDA"
+        },
+        {
+          "code": "1912030",
+          "name": "SHANKARAPUR"
+        },
+        {
+          "code": "1912019",
+          "name": "SOWERGAON"
+        },
+        {
+          "code": "1912028",
+          "name": "SURDAPUR"
+        },
+        {
+          "code": "1912004",
+          "name": "TARNAM (BUZURG)"
+        },
+        {
+          "code": "1912011",
+          "name": "TARNAM (KHURD)"
+        },
+        {
+          "code": "1912016",
+          "name": "TEJAPUR"
+        },
+        {
+          "code": "1912006",
+          "name": "VENKATAPUR"
+        },
+        {
+          "code": "1912029",
+          "name": "WADDUR"
+        },
+        {
+          "code": "1912009",
+          "name": "WAGDHARI"
+        },
+        {
+          "code": "1912034",
+          "name": "WANKIDI"
+        }
+      ]
+    },
+    {
+      "code": "20",
+      "name": "SATHNALA",
+      "villages": [
+        {
+          "code": "1905046",
+          "name": "DOUNA"
+        },
+        {
+          "code": "1903036",
+          "name": "JAMULDHARI"
+        },
+        {
+          "code": "1904054",
+          "name": "JUNONI (JAMINI)"
+        },
+        {
+          "code": "1904053",
+          "name": "KANPA (MEDIGUDA)"
+        },
+        {
+          "code": "1904055",
+          "name": "MANGURLA"
+        },
+        {
+          "code": "1904051",
+          "name": "PARDI BUZURG"
+        },
+        {
+          "code": "1904052",
+          "name": "PARDI KHURD"
+        },
+        {
+          "code": "1903021",
+          "name": "RAMAI"
+        },
+        {
+          "code": "1905045",
+          "name": "SAHEJ"
+        },
+        {
+          "code": "1905047",
+          "name": "SANGVI"
+        },
+        {
+          "code": "1905043",
+          "name": "SYEDPUR"
+        },
+        {
+          "code": "1905044",
+          "name": "TOYAGUDA (KORA)"
+        }
+      ]
+    },
+    {
+      "code": "15",
+      "name": "SIRIKONDA",
+      "villages": [
+        {
+          "code": "1907024",
+          "name": "KONDAPUR"
+        },
+        {
+          "code": "1907028",
+          "name": "LACHIMPUR (B)"
+        },
+        {
+          "code": "1907026",
+          "name": "LACHIMPUR (K)"
+        },
+        {
+          "code": "1907022",
+          "name": "LAKAMPUR"
+        },
+        {
+          "code": "1909041",
+          "name": "NARAYANAPUR"
+        },
+        {
+          "code": "1909042",
+          "name": "NERADIGONDA (K)"
+        },
+        {
+          "code": "1909034",
+          "name": "NERODIGONDA"
+        },
+        {
+          "code": "1907025",
+          "name": "POCHAMPALLE"
+        },
+        {
+          "code": "1909007",
+          "name": "PONNA"
+        },
+        {
+          "code": "1907023",
+          "name": "RAMPUR (B)"
+        },
+        {
+          "code": "1909009",
+          "name": "SIRIKONDA"
+        },
+        {
+          "code": "1909011",
+          "name": "SOANPALLE"
+        },
+        {
+          "code": "1909008",
+          "name": "SUNKIDI"
+        },
+        {
+          "code": "1907027",
+          "name": "WAIPET"
+        }
+      ]
+    },
+    {
+      "code": "19",
+      "name": "SONALA",
+      "villages": [
+        {
+          "code": "1911003",
+          "name": "CHINTALABORI"
+        },
+        {
+          "code": "1911004",
+          "name": "GHANPUR"
+        },
+        {
+          "code": "1911002",
+          "name": "GOLLAPUR"
+        },
+        {
+          "code": "1911007",
+          "name": "KOWTHA KHURD"
+        },
+        {
+          "code": "1911005",
+          "name": "PARDI BUZURG"
+        },
+        {
+          "code": "1911017",
+          "name": "PARDI KHURD"
+        },
+        {
+          "code": "1911013",
+          "name": "SAKHERA"
+        },
+        {
+          "code": "1911006",
+          "name": "SONALA"
+        },
+        {
+          "code": "1911014",
+          "name": "TEWTI"
+        },
+        {
+          "code": "1911001",
+          "name": "WAJAR"
+        }
+      ]
+    },
+    {
+      "code": "16",
+      "name": "TALAMADUGU",
+      "villages": [
+        {
+          "code": "1901020",
+          "name": "ARLI KHURD"
+        },
+        {
+          "code": "1901026",
+          "name": "BHARAMPUR"
+        },
+        {
+          "code": "1901015",
+          "name": "DEHEGAON"
+        },
+        {
+          "code": "1901021",
+          "name": "DEVAPUR"
+        },
+        {
+          "code": "1901013",
+          "name": "DORLI"
+        },
+        {
+          "code": "1901018",
+          "name": "JHARI"
+        },
+        {
+          "code": "1901009",
+          "name": "KAJJARLA"
+        },
+        {
+          "code": "1901014",
+          "name": "KAPPARDEVI"
+        },
+        {
+          "code": "1901008",
+          "name": "KHODAD"
+        },
+        {
+          "code": "1901001",
+          "name": "KOSAI"
+        },
+        {
+          "code": "1901011",
+          "name": "KOTHUR"
+        },
+        {
+          "code": "1901004",
+          "name": "KUCHALAPOOR"
+        },
+        {
+          "code": "1901023",
+          "name": "LACHAMPUR"
+        },
+        {
+          "code": "1901005",
+          "name": "LINGI"
+        },
+        {
+          "code": "1901025",
+          "name": "MADNAPOOR"
+        },
+        {
+          "code": "1901027",
+          "name": "NANDIGAON"
+        },
+        {
+          "code": "1901002",
+          "name": "PALASIBUZURG"
+        },
+        {
+          "code": "1901003",
+          "name": "PALASIKHURD"
+        },
+        {
+          "code": "1901024",
+          "name": "PALLE BUZURG"
+        },
+        {
+          "code": "1901028",
+          "name": "PALLE KHURD"
+        },
+        {
+          "code": "1901022",
+          "name": "PANGADPIPRI"
+        },
+        {
+          "code": "1901017",
+          "name": "RATNAPUR"
+        },
+        {
+          "code": "1901010",
+          "name": "RUYYADI"
+        },
+        {
+          "code": "1901019",
+          "name": "SAKNAPOOR"
+        },
+        {
+          "code": "1901006",
+          "name": "SUNKIDI"
+        },
+        {
+          "code": "1901012",
+          "name": "TALAMADUGU"
+        },
+        {
+          "code": "1901007",
+          "name": "UMADAM"
+        },
+        {
+          "code": "1901016",
+          "name": "UMREI"
+        }
+      ]
+    },
+    {
+      "code": "17",
+      "name": "TAMSI",
+      "villages": [
+        {
+          "code": "1902027",
+          "name": "AMBUGAON"
+        },
+        {
+          "code": "1902023",
+          "name": "BANDALNAGAPUR"
+        },
+        {
+          "code": "1902021",
+          "name": "GHOTKURI"
+        },
+        {
+          "code": "1902026",
+          "name": "GIRGAON"
+        },
+        {
+          "code": "1902030",
+          "name": "HASNAPUR"
+        },
+        {
+          "code": "1902024",
+          "name": "JAMDI"
+        },
+        {
+          "code": "1902019",
+          "name": "KHAPPERLA"
+        },
+        {
+          "code": "1902025",
+          "name": "PALODI (RAMNAGAR)"
+        },
+        {
+          "code": "1902031",
+          "name": "PONNARI"
+        },
+        {
+          "code": "1902022",
+          "name": "SANVERGAON"
+        },
+        {
+          "code": "1902028",
+          "name": "TAMSI (B)"
+        },
+        {
+          "code": "1902029",
+          "name": "WADDADI"
+        }
+      ]
+    },
+    {
+      "code": "18",
+      "name": "UTNUR",
+      "villages": [
+        {
+          "code": "1926011",
+          "name": "ANDHOLI"
+        },
+        {
+          "code": "1926038",
+          "name": "BALAMPUR"
+        },
+        {
+          "code": "1926037",
+          "name": "BHUPET"
+        },
+        {
+          "code": "1926039",
+          "name": "BIRSAIPET"
+        },
+        {
+          "code": "1926005",
+          "name": "CHANDUR"
+        },
+        {
+          "code": "1926001",
+          "name": "CHINTAKARRA"
+        },
+        {
+          "code": "1926034",
+          "name": "DANTHANPALLE"
+        },
+        {
+          "code": "1926025",
+          "name": "DURGAPUR"
+        },
+        {
+          "code": "1926028",
+          "name": "GANGAMAPET"
+        },
+        {
+          "code": "1926030",
+          "name": "GANGAPUR"
+        },
+        {
+          "code": "1926035",
+          "name": "GHANPUR"
+        },
+        {
+          "code": "1926003",
+          "name": "GHATTI"
+        },
+        {
+          "code": "1926006",
+          "name": "HASNAPUR"
+        },
+        {
+          "code": "1926032",
+          "name": "HEERAPUR"
+        },
+        {
+          "code": "1926023",
+          "name": "HEERAPUR - J"
+        },
+        {
+          "code": "1926031",
+          "name": "KAMNIPET"
+        },
+        {
+          "code": "1926017",
+          "name": "KOPERGADH"
+        },
+        {
+          "code": "1926027",
+          "name": "LAKKARAM"
+        },
+        {
+          "code": "1926021",
+          "name": "LUXETTIPET"
+        },
+        {
+          "code": "1926022",
+          "name": "NAGAPUR"
+        },
+        {
+          "code": "1926002",
+          "name": "NARSAPUR (BUZURG)"
+        },
+        {
+          "code": "1926009",
+          "name": "NARSAPUR (KHURD)"
+        },
+        {
+          "code": "1926036",
+          "name": "NARSAPUR (NEW)"
+        },
+        {
+          "code": "1926012",
+          "name": "PULIMADGU"
+        },
+        {
+          "code": "1926024",
+          "name": "RAMLINGAMPET"
+        },
+        {
+          "code": "1926026",
+          "name": "RAMPUR (KHURD)"
+        },
+        {
+          "code": "1926010",
+          "name": "SAKHERA"
+        },
+        {
+          "code": "1926015",
+          "name": "SALEWADA (BUZURG)"
+        },
+        {
+          "code": "1926016",
+          "name": "SALEWADA (KHURD)"
+        },
+        {
+          "code": "1926014",
+          "name": "SHAMPUR"
+        },
+        {
+          "code": "1926020",
+          "name": "TANDRA"
+        },
+        {
+          "code": "1926033",
+          "name": "TEJAPUR - J"
+        },
+        {
+          "code": "1926008",
+          "name": "UMRI"
+        },
+        {
+          "code": "1926029",
+          "name": "UTNUR"
+        },
+        {
+          "code": "1926019",
+          "name": "WADGALPUR (BUZURG)"
+        },
+        {
+          "code": "1926018",
+          "name": "WADGALPUR (KHURD)"
+        },
+        {
+          "code": "1926004",
+          "name": "WADONI"
+        },
+        {
+          "code": "1926013",
+          "name": "YENDA"
+        },
+        {
+          "code": "1926007",
+          "name": "YENKA"
+        }
+      ]
+    }
+  ]
+}
